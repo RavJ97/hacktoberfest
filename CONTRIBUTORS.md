@@ -1,7 +1,7 @@
 #### Name: Ravindu Wickramasinghe
  - Place: Sri Lanka
  - Bio: Software engineerng Undergraduate
- - GitHub: [Ravindu](https://github.com/RavJ97)
+ - GitHub: [Ravindu Wickramasinghe](https://github.com/RavJ97)
  
 #### Name: Vallenain
  - Place: Lyon, France
